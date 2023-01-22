@@ -21,7 +21,7 @@
 </tr>
   <tr>
 <td> 3 </td>
-<tdFind the “Kth” max and min element of an array</td>
+<td>Find the “Kth” max and min element of an array</td>
 <td> <a href="https://github.com/Nishitbaria/DSA-120Days-Challenge/blob/main/Arrys/Sort0123.cpp"> click here </a>  </td>
 </tr>
   <tr>
