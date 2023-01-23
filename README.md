@@ -29,5 +29,13 @@
 <td>Sort 0 1 2</td>
 <td> <a href="https://github.com/Nishitbaria/DSA-120Days-Challenge/blob/main/Arrys/kthelemenrtMAx_min.cpp"> click here </a>  </td>
 </tr>
+<td> 5 </td>
+<td>Move all negative elements to end</td>
+<td> <a href="https://github.com/Nishitbaria/DSA-120Days-Challenge/blob/main/Arrys/Move%20all%20negative%20element.cpp"> click here </a>  </td>
+</tr>
+<td> 6 </td>
+<td>Union of two arrays</td>
+<td> <a href="https://github.com/Nishitbaria/DSA-120Days-Challenge/blob/main/Arrys/Unionz%26Arr.Cpp"> click here </a>  </td>
+</tr>
 
 </table>
