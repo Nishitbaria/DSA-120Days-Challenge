@@ -37,5 +37,10 @@
 <td>Union of two arrays</td>
 <td> <a href="https://github.com/Nishitbaria/DSA-120Days-Challenge/blob/main/Arrys/Unionz%26Arr.Cpp"> click here </a>  </td>
 </tr>
+<td> 7 </td>
+<td>Cyclically rotate an array by one</td>
+<td> <a href="https://github.com/Nishitbaria/DSA-120Days-Challenge/blob/main/Arrys/Cyclically%20rotate%20an%20array%20by%20one.cpp"> click here </a>  </td>
+</tr>
+
 
 </table>
